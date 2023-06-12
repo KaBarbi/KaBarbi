@@ -1,6 +1,6 @@
 
 
-### Ola! eu sou o Kaue Barbi 🔥
+### Olá! eu sou o Kaue Barbi 🔥
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://intagram.com/_kabarbi)
