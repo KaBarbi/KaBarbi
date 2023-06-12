@@ -16,7 +16,9 @@
 <img align="center" hight="50px" width="50px" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" hight="50px" width="50px" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" hight="50px" width="50px" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" hight="50px" width="50px" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" hight="50px" width="50px" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 <div/><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaBarbi&layout=compact)
+
