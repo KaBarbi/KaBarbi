@@ -44,7 +44,7 @@
 
 ### Badges
 
-<b>Meu GitHub Stats</b>
+<b>Meu GitHub Stats:</b>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KaBarbi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" /> 
