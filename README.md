@@ -7,11 +7,11 @@
 #### Projetos em que participei:
 * Participei das edições 33, 34 e 35 da Exposoft
 
-    <a href="https://www.exposoftalcina.com/exposoft_2023/">💻 Exposoft</a><br>
+    <a href="[https://www.exposoftalcina.com/exposoft_2023/](https://www.exposoftalcina.com/anteriores/exposoft_2023/index.html)">💻 Exposoft</a><br>
 
 * Participando na criação do projeto
 
-    <a href="https://www.exposoftalcina.com/exposoft_2023/3tid/edskate/html/index.php">💻 Site de venda de Skates</a><br>
+    <a href="[https://www.exposoftalcina.com/exposoft_2023/3tid/edskate/html/index.php](https://www.exposoftalcina.com/anteriores/exposoft_2023/3tid/edskate/html/index.php)">💻 Site de venda de Skates</a><br>
 
 ##
 
