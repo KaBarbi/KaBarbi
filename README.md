@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&color=0098EB&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;:%29)](https://git.io/typing-svg)
 
----
+
 
 ## Projects I participated in:
 * I participated in the 33rd, 34th and 35th editions of Exposoft
