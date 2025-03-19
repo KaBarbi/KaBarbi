@@ -14,28 +14,27 @@
 
 ---
 
-### 💡 Skills:
+## 💡 Skills:
 [![My Skills](https://skillicons.dev/icons?i=react,python,java,nodejs,js,html,css,linux,mysql&theme=dark)](https://skillicons.dev)
 <p align="left">
+<br/>
 
-
-##
-### 📲 Social Media:
+## 📲 Social Media:
 <p align="left">
 <a href="https://github.com/KaBarbi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.linkedin.com/in/kaue-barbi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.instagram.com/_kabarbi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
 <a href="https://twitter.com/kabarbiX" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> </p>
+<br/>
 
-##
-### 🏆 Badges & Achievements
+## 🏆 Badges & Achievements
 🎖️ [Check out my certifications](https://www.credly.com/users/kaue-barbi)
 
 🌍 [Follow my language learning journey on Duolingo](https://www.duolingo.com/profile/KaBarbiz)
 
+<br/>
 
-##
-### 📧 Contact me:
+## 📧 Contact me:
 <p>I'm always open to exchanging ideas and learning from other professionals. If you want to talk about technology, projects or simply share experiences, it will be a pleasure to talk to you.</p>
 <div>
  <a href = "mailto:kauebarbicode@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
