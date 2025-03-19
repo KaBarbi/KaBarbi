@@ -4,24 +4,39 @@
 
 
 
-## Projects I participated in:
-* I participated in the 33rd, 34th and 35th editions of Exposoft
+## 🚀 Projects I Participated In
+### 🎓 Exposoft Participation
+- Participated in the **33rd, 34th, and 35th editions of Exposoft**  
+  🔗 [Exposoft Official Page](https://exposoftalcina.com/anteriores/exposoft_2023/index.html)
 
-    <a href="https://exposoftalcina.com/anteriores/exposoft_2023/index.html">💻 Exposoft</a><br>
+### 🛒 Everyday Skate Shop Project
+- Developed the **Everyday Skate Shop** project during the 3rd module.
+  🔗 [Check it out](https://www.exposoftalcina.com/anteriores/exposoft_2023/3tid/edskate/html/index.php)
 
-* Creating the project:
-
-    <a href="[https://www.exposoftalcina.com/exposoft_2023/3tid/edskate/html/index.php](https://www.exposoftalcina.com/anteriores/exposoft_2023/3tid/edskate/html/index.php)">💻 Everyday Skate Shop (3rd Module)</a><br>
 
 ---
 
-### 🎓 Skills:
+### 💡 Skills:
 [![My Skills](https://skillicons.dev/icons?i=react,python,java,nodejs,js,html,css,linux,mysql&theme=dark)](https://skillicons.dev)
 <p align="left">
 
 
 ##
+### 📲 Social Media:
+<p align="left">
+<a href="https://github.com/KaBarbi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.linkedin.com/in/kaue-barbi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.instagram.com/_kabarbi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+<a href="https://twitter.com/kabarbiX" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> </p>
 
+##
+### 🏆 Badges & Achievements
+🎖️ [Check out my certifications](https://www.credly.com/users/kaue-barbi)
+
+🌍 [Follow my language learning journey on Duolingo](https://www.duolingo.com/profile/KaBarbiz)
+
+
+##
 ### 📧 Contact me:
 <p>I'm always open to exchanging ideas and learning from other professionals. If you want to talk about technology, projects or simply share experiences, it will be a pleasure to talk to you.</p>
 <div>
@@ -31,18 +46,8 @@
 
 ##
 
-### 📲 Social Media:
-<p align="left">
-<a href="https://github.com/KaBarbi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.linkedin.com/in/kaue-barbi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.instagram.com/_kabarbi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-<a href="https://twitter.com/kabarbiX" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> </p>
 
-##
-
-### Badges:
-https://www.credly.com/users/kaue-barbi
-##
+---
 ### My GitHub Stats:
 
 <div align="center">  
