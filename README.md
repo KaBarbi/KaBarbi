@@ -6,12 +6,10 @@
 
 ## 🚀 Projects I Participated In
 ### 🎓 Exposoft Participation
-- Participated in the **33rd, 34th, and 35th editions of Exposoft**  
-  🔗 [Exposoft Official Page](https://exposoftalcina.com/anteriores/exposoft_2023/index.html)
+- Participated in the **33rd, 34th, and 35th editions of Exposoft.**  🔗 [Exposoft Official Page](https://exposoftalcina.com/anteriores/exposoft_2023/index.html)
 
 ### 🛒 Everyday Skate Shop Project
-- Developed the **Everyday Skate Shop** project during the 3rd module.
-  🔗 [Check it out](https://www.exposoftalcina.com/anteriores/exposoft_2023/3tid/edskate/html/index.php)
+- Developed the **Everyday Skate Shop** project during the 3rd module. 🔗 [Check it out](https://www.exposoftalcina.com/anteriores/exposoft_2023/3tid/edskate/html/index.php)
 
 
 ---
