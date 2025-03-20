@@ -1,0 +1,33 @@
+name: Duolingo Streak Update
+
+on:
+  schedule:
+    - cron: '1 1 * * *'  # Atualiza todos os dias às 01:01 UTC
+  workflow_dispatch:  # Permite rodar manualmente
+
+jobs:
+  duolingo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: duolingo to markdown
+        uses: diegoaichele/duolingo-to-markdown@v0.2
+        with:
+          DUOLINGO_USERNAME: ${{ secrets.DUOLINGO_USERNAME }}
+          DUOLINGO_PASSWORD: ${{ secrets.DUOLINGO_PASSWORD }}
+
+      - name: Commit changes
+        continue-on-error: true
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Updated Duolingo streak" -a || echo "No changes to commit"
+
+      - name: Push changes
+        continue-on-error: true
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
