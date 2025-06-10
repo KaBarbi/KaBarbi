@@ -16,7 +16,7 @@
 
 ## 💡 Skills:
 [![My Skills](https://skillicons.dev/icons?i=python,java,linux,bash,mysql,nodejs,docker&theme=dark)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,figma&theme=dark)](https://skillicons.dev)
 <p align="left">
 <br/>
 
