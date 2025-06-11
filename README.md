@@ -4,13 +4,11 @@
 
 
 
-## 🚀 Projects I Participated In
+##   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px">  About Me
+I'm a Computer Science student currently working as a Help Desk intern, while actively transitioning into backend development with a focus on scalable web applications and modern technologies. I'm consistently developing skills in programming, API design, databases, and containerization, with a growing interest in cloud infrastructure and cybersecurity.
+
 ### 🎓 Exposoft Participation
 - Participated in the **33rd, 34th, and 35th editions of Exposoft.**  🔗 [Exposoft Official Page](https://exposoftalcina.com/anteriores/exposoft_2023/index.html)
-
-### 🛒 Everyday Skate Shop Project
-- Developed the **Everyday Skate Shop** project during the 3rd module. 🔗 [Check it out](https://www.exposoftalcina.com/anteriores/exposoft_2023/3tid/edskate/html/index.php)
-
 
 ---
 
@@ -38,7 +36,6 @@
 ## 📧 Contact me:
 <p>I'm always open to exchanging ideas and learning from other professionals. If you want to talk about technology, projects or simply share experiences, it will be a pleasure to talk to you.</p>
 <div>
- <a href="https://discord.gg/w4a7Sj3b" target="_blank"><img src="https://img.shields.io/badge/Discord-%2350A3F3?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
  <a href = "mailto:kauebarbicode@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  <a href = "https://www.linkedin.com/in/kaue-barbi" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
