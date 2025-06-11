@@ -7,8 +7,8 @@
 ##   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px">  About Me
 I'm a Computer Science student currently working as a Help Desk intern, while actively transitioning into backend development with a focus on scalable web applications and modern technologies. I'm consistently developing skills in programming, API design, databases, and containerization, with a growing interest in cloud infrastructure and cybersecurity.
 
-- 🌐 Explore my portfolio: 🔗 [Kaue Barbi Portfolio](https://kabarbi.vercel.app)
-- 🎓 Participated in the **33rd, 34th, and 35th editions of Exposoft.**  🔗 [Exposoft Official Page](https://exposoftalcina.com/anteriores/exposoft_2023/index.html)
+- 🌐 Explore my portfolio: 🔗 <a href="https://kabarbi.vercel.app" target="_blank">Kaue Barbi Portfolio</a>
+- 🎓 Participated in the <strong>33rd, 34th, and 35th editions of Exposoft.</strong> 🔗 <a href="https://exposoftalcina.com/anteriores/exposoft_2023/index.html" target="_blank">Exposoft Official Page</a>
 
 ---
 
