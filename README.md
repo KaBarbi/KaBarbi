@@ -39,7 +39,7 @@ I'm a Computer Science student currently working as a Help Desk intern, while ac
 
 🌍 [Follow my language learning journey on Duolingo](https://www.duolingo.com/profile/KaBarbiz)
 
-⌨️ [Check out my typing stats on Monkeytype](https://monkeytype.com/profile/KaBarbi)!
+⌨️ [Check out my typing stats on Monkeytype](https://monkeytype.com/profile/KaBarbi)
 
 ---
 ### 📊 My GitHub Stats:
