@@ -13,8 +13,8 @@ I'm a Computer Science student currently working as a Help Desk intern, while ac
 ---
 
 ## 💡 Skills:
-[![My Skills](https://skillicons.dev/icons?i=python,java,linux,bash,mysql,nodejs,docker&theme=dark)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,linux,bash,postgresql,mysql,nodejs,docker&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=django,react,tailwind,js,ts,html,css,figma&theme=dark)](https://skillicons.dev)
 <p align="left">
 <br/>
 
