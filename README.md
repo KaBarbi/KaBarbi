@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D59EA&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Libre+Baskerville&color=0098EB&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;:%29)](https://git.io/typing-svg)
-
+<div style="display: flex; align-items: center; width: 100%;">
+  <img src="https://leviarista.github.io/github-profile-header-generator/images/decorations/octocat.png" width="100px" alt="Octocat" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Libre+Baskerville&color=0098EB&size=24&speed=50&pause=1000&lines=Welcome+to+my+profile!+" alt="Typing SVG" />
+</div>
 
 
 ##   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px">  About Me
@@ -50,4 +50,3 @@ I'm a Computer Science student currently working as a Help Desk intern, while ac
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaBarbi" alt="KaBarbi" /> </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D59EA&height=120&section=footer"/>
