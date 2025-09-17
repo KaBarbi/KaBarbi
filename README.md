@@ -45,7 +45,7 @@ I'm a Computer Science student currently working as a Help Desk intern, while ac
 ### 📊 My GitHub Stats:
 
 <div align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=KaBarbiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" style="width:49%; height:195px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=KaBarbi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" style="width:49%; height:195px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaBarbi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" style="width:41%; height:195px;" />
 </div>
 
