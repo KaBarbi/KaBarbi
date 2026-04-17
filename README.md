@@ -5,20 +5,20 @@
 
 
 ##   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px">  About Me
-I'm a Computer Science student currently working as a Help Desk intern, while actively transitioning into backend development with a focus on scalable web applications and modern technologies. I'm consistently developing skills in programming, API design, databases, and containerization, with a growing interest in cloud infrastructure and cybersecurity.
+Computer Science student currently working as a Help Desk intern, transitioning into backend development. I focus on building scalable web applications using Python and Django, with hands-on experience in RESTful APIs, relational databases (PostgreSQL/MySQL), and containerized environments with Docker, i’m particularly interested in system design, cloud-native architectures, and improving my understanding of infrastructure, performance, and security in real-world applications.
 
 - 🌐 Explore my portfolio: 🔗 [Kaue Barbi Portfolio](https://kabarbi.vercel.app)
-- 🎓 Participated in the **33rd, 34th, and 35th editions of Exposoft.**  🔗 [Exposoft Official Page](https://exposoftalcina.com/anteriores/exposoft_2023/index.html)
+- 💾 Participated in the **33rd, 34th, and 35th editions of Exposoft.**  🔗 [Exposoft Official Page](https://exposoftalcina.com/anteriores/exposoft_2023/index.html)
 
 ---
 
-## 💡 Skills:
+## 🎓 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,java,django,postgresql,linux,bash,mysql,docker&theme=dark)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,ts,nodejs,html,css,figma&theme=dark)](https://skillicons.dev)
 <p align="left">
 <br/>
 
-## 📧 Contact me:
+## Get in touch ☕
 <p>I'm always open to exchanging ideas and learning from other professionals. If you want to talk about technology, projects or simply share experiences, it will be a pleasure to talk to you.</p>
 <div>
   <a href="mailto:kauebarbicode@gmail.com" target="_blank">
@@ -34,7 +34,7 @@ I'm a Computer Science student currently working as a Help Desk intern, while ac
 
 <br/>
 
-## 🏆 Badges & Achievements
+##  Badges & Achievements
 🎖️ [Check out my certifications](https://www.credly.com/users/kaue-barbi)
 
 🌍 [Follow my language learning journey on Duolingo](https://www.duolingo.com/profile/KaBarbiz)
